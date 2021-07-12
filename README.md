@@ -18,7 +18,7 @@ No, it is on hold. I am currently taking my time to learn Python before I dive i
 ```
 git clone https://github.com/JBNCK/CLINOTE
 cd CLINOTE/
-sudo install.sh
+sudo ./install.sh
 ```
 If you use doas or another "superuser do" application replace the 'sudo' with in the last command with your desired "superuser do" command. Also be aware that if you have any other program with a binary called 'notes' it will get overwritten.
 # Removal
