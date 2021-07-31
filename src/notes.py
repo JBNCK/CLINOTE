@@ -7,11 +7,13 @@ loop = 1
 user = str(getpass.getuser())
 today_date = str(date.today())
 
-
 try:
-    os.chdir("/home/" + user)
-except:
-    os.chdir("C:\\Users\\" + user)
+    homedir = os.environ["HOME"]
+except KeyError:
+    homedir = os.environ["UserProfile"]
+
+print(homedir)
+os.chdir(homedir)
 
 def read_notes():
         notes = open(".NOTEFILE", "r")
