@@ -8,7 +8,7 @@ The new CLINOTE written in Python. Now even better featuring features like:
 
 CLINOTE is a perfect TO-DO and note-taking program for people who depend much on the terminal like users of a standalone tiling window manager or just people with a low-end computer.
 # Is the C version dead?
-No, it is on hold. I am currently taking my time to learn Python before I dive into C. It will eventually get picked up by me or a contributor again.
+Yes.
 # Commands
 ```
 :q(uit) - Exit the program
