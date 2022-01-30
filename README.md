@@ -17,8 +17,6 @@ Yes.
 :h(elp) / :? - Get help with commands
 :d(ay)c(hange) - Disable/Enable task reset on day change
 ```
-# Windows support
-This program is written with *NIX support in mind but I try to make it as compatible as possible with Windows and other non-UNIX operating systems. If you encounter any issues/errors please make sure to open a GitHub issue so I can fix it.
 # Installation
 Requirements:
 - Python3
