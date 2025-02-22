@@ -1,5 +1,3 @@
-## Notice: As of August 2024 this Project is no longer under active development. More information can be found [here (german)](https://de.biernacik.org/meldungen/einstellung-projekte/).
-
 # CLINOTE
 ![](demos/demo1.png)
 
